@@ -30,3 +30,21 @@ SILVIA NUR MAHMUDAH
 ![Screenshot webview_on_flutter](images/09.png)
 
 ![Screenshot webview_on_flutter](images/10.png)
+
+### Mengelola Cookie
+![Screenshot webview_on_flutter](images/11.png)
+
+list cookie
+![Screenshot webview_on_flutter](images/12.png)
+
+set cookie
+![Screenshot webview_on_flutter](images/13.png)
+
+add cookie
+![Screenshot webview_on_flutter](images/14.png)
+
+remove cookie
+![Screenshot webview_on_flutter](images/15.png)
+
+clear cookie
+![Screenshot webview_on_flutter](images/16.png)
