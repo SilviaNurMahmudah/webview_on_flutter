@@ -48,3 +48,15 @@ remove cookie
 
 clear cookie
 ![Screenshot webview_on_flutter](images/16.png)
+
+### Memuat aset, file, dan string HTML Flutter di WebView
+![Screenshot webview_on_flutter](images/17.png)
+
+Load Flutter Asset
+![Screenshot webview_on_flutter](images/18.png)
+
+Load HTML String
+![Screenshot webview_on_flutter](images/19.png)
+
+Load Local File
+![Screenshot webview_on_flutter](images/20.png)
