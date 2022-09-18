@@ -12,3 +12,6 @@ SILVIA NUR MAHMUDAH
 
 ### Menggunakan WebViewController
 ![Screenshot webview_on_flutter](images/03.png)
+
+### Melacak navigasi dengan NavigationDelegate
+![Screenshot webview_on_flutter](images/04.png)
